@@ -3,7 +3,7 @@ In this workshop, we will cover the below:
 
 2. Walkthrough the Azure Synapse Analytics UI:
 
-![Synapse Background](SynapseBackground.png)
+![Screenshot](screenshot.png)
 
 Follow this video to create the Azure Synapse Analytics workspace on Azure.
 
